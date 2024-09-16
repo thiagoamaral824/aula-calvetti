@@ -1,3 +1,3 @@
-***Repositório para entrega das atividades de Sistemas Computacionais e Segurança***
+# Repositório para entrega das atividades de Sistemas Computacionais e Segurança
 
-*Thiago Amaral da Silva Barros - 822151695*
+## Thiago Amaral da Silva Barros - 822151695
